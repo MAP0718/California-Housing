@@ -25,6 +25,7 @@ This is a supervised regression problem.
 - Linear Regression (baseline)
 - Decision Tree Regressor
 - Random Forest Regressor (final model)
+- The models comparision is done in the notebook
 
 
 
